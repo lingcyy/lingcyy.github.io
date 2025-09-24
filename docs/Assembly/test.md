@@ -1,3 +1,9 @@
+---
+title: test
+parent: Assembly
+nav_order: 1
+---
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
