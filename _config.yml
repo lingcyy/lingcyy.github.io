@@ -2,4 +2,8 @@ title: Just the Docs
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
+search_enabled: true
+color_scheme: light
+footer_content: "版权所有 &copy; 2025"
+
 url: https://lingcyy.github.io
