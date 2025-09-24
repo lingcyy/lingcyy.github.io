@@ -1,3 +1,10 @@
+---
+layout: default
+title: Getting Started
+parent: Home
+nav_order: 2
+---
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
